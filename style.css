@@ -1,0 +1,18 @@
+body {
+  background-image: url(https://images.unsplash.com/photo-1559583985-c80d8ad9b29f?auto=format&fit=crop&q=80&w=1000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MXwxMDY1OTc2fHxlbnwwfHx8fHw%3D);
+  color: red;
+  background-size: cover;
+}
+h1 {
+  text-align: center;
+  font-sized: 50px;
+  font-family: verdana;
+}
+
+.m1 {
+  background: white;
+}
+
+.m2 {
+  background: purple;
+}
